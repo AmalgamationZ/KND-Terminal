@@ -1,0 +1,7 @@
+----------------------------------------------
+MAIN MENU
+
+PLEASE ENTER COMMAND.
+TYPE 'help' FOR LIST OF COMMANDS.
+TYPE 'quit' or 'exit' TO CLOSE.
+----------------------------------------------
