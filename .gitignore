@@ -6,6 +6,7 @@
 !c.txt
 !o.txt
 !p.txt
+!s.txt
 !requirements.txt
 *.spec
 *.exe
