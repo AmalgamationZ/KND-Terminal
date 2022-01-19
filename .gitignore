@@ -1,9 +1,11 @@
-/__pycache__
+**/__pycache__/**
 /build
 /dist
+/saves
 *.txt
 !c.txt
 !o.txt
 !p.txt
 *.spec
 *.exe
+*.pyc
